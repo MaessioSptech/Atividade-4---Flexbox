@@ -4,7 +4,7 @@
 }
 
 .container{
-    background-color: gray;
+    background-color: #d0d3d4;
     display: flex;
     margin: 3px;
     
@@ -14,11 +14,11 @@
     display: flex;
     flex-direction: column-reverse;
     margin: 3px;
-    background-color: gray;
+    background-color: #d0d3d4;
 }
 
 .container-c{
-    background-color: gray;
+    background-color: #d0d3d4;
     display: flex;
     flex-direction: row-reverse;
     justify-content: flex-end;
